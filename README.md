@@ -6,7 +6,7 @@ RelayGrid is a landing page and interactive product concept for teams that send 
 
 ## Live demo
 
-_Deployment link will be added after the Vercel deployment is published._
+[Open the live RelayGrid demo](https://relaygrid-saas.vercel.app/)
 
 ## Product experience
 
